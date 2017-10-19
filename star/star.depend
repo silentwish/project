@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508053747 source:f:\project\star\main.cpp
+	<ege.h>
+	<time.h>
+	<math.h>
+
