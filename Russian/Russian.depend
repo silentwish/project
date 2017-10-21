@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1508555485 source:f:\project\russian\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"core.h"
+	"grade.h"
+	"mark.h"
+	"print.h"
+	"trans.h"
+	"screen.h"
+	"ranking_list.h"
+	"queue.h"
+
+1508555798 f:\project\russian\core.h
+
+1508555832 f:\project\russian\grade.h
+
+1508555862 f:\project\russian\mark.h
+
+1508555894 f:\project\russian\print.h
+
+1508556018 f:\project\russian\trans.h
+
+1508555988 f:\project\russian\screen.h
+
+1508555956 f:\project\russian\ranking_list.h
+
+1508555924 f:\project\russian\queue.h
+

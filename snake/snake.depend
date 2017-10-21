@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1508553633 source:f:\project\snake\dealbeginmenumsg.c
+	"DealBeginMenuMsg.h"
+
+1508554160 f:\project\snake\dealbeginmenumsg.h
+	<windows.h>
+	"Init_Begin_UI.h"
+	"HelpDialogProc.h"
+	"MacroDefine.h"
+	"PlayingProc.h"
+	"resource.h"
+
+1508554310 f:\project\snake\init_begin_ui.h
+	<windows.h>
+	"resource.h"
+
+1508554064 f:\project\snake\resource.h
+
+1508554272 f:\project\snake\helpdialogproc.h
+	<windows.h>
+	"resource.h"
+
+1508554388 f:\project\snake\macrodefine.h
+
+1508554465 f:\project\snake\playingproc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"DealBeginMenuMsg.h"
+	"GameOverDlgProc.h"
+	"Init_Playing_Map.h"
+	"MacroDefine.h"
+	"cu_map.h"
+	"resource.h"
+
+1508554211 f:\project\snake\gameoverdlgproc.h
+	<windows.h>
+	"resource.h"
+
+1508554344 f:\project\snake\init_playing_map.h
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	"cu_map.h"
+	"MacroDefine.h"
+
+1508554109 f:\project\snake\cu_map.h
+	<windows.h>
+
+1508553687 source:f:\project\snake\gameoverdlgproc.c
+	"GameOverDlgProc.h"
+	"MacroDefine.h"
+
+1508553750 source:f:\project\snake\gamewndproc.c
+	"GameWndProc.h"
+
+1508554023 f:\project\snake\gamewndproc.h
+	<windows.h>
+	"DealBeginMenuMsg.h"
+	"PlayingProc.h"
+	"MacroDefine.h"
+	"resource.h"
+
+1508553803 source:f:\project\snake\helpdialogproc.c
+	"HelpDialogProc.h"
+
+1508553845 source:f:\project\snake\init_begin_ui.c
+	"Init_Begin_UI.h"
+
+1508553888 source:f:\project\snake\init_playing_map.c
+	"Init_Playing_Map.h"
+	<stdio.h>
+
+1508553023 source:f:\project\snake\main.c
+	<windows.h>
+	"GameWndProc.h"
+	"resource.h"
+
+1508553951 source:f:\project\snake\playingproc.c
+	"PlayingProc.h"
+	"GameWndProc.h"
+	"map_data.h"
+
+1508554426 f:\project\snake\map_data.h
+	"cu_map.h"
+
